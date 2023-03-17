@@ -20,6 +20,7 @@
   "dependencies": {
     "fastify": "^4.14.1",
     "knex": "^2.4.2",
-    "sqlite3": "^5.1.5"
+    "sqlite3": "^5.1.5",
+    "ts-node": "^10.9.1"
   }
 }
